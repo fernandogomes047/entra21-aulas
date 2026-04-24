@@ -1,3 +1,3 @@
 package PACKAGE_NAME;
 
-public class patotinha {
+public class patotinha {}
