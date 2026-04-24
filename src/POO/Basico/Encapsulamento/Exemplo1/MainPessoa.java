@@ -1,4 +1,4 @@
-package POO.Basico.Encapsulamento.exemplo1;
+package POO.Basico.Encapsulamento.Exemplo1;
 
 public class MainPessoa {
     public static void main(String[] args) {
