@@ -7,7 +7,6 @@ public class Aluno extends Pessoa {
     public String getMatricula() {
         return matricula;
     }
-
     public Aluno(String nome, int idade, String matricula) {
         super(idade, nome);
         this.matricula = matricula;
