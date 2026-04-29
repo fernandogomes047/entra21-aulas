@@ -1,4 +1,4 @@
-package POO.Basico.exemplo1;
+package POO.Basico.ConceitoGeralPOOexemplo;
 
 public class Principal {
     public static void main(String[] args) {
