@@ -1,4 +1,4 @@
-package POO.Basico.Encapsulamento.Exercicios1;
+package POO.Basico.Encapsulamento.Exercicio1;
 
 public class Livro {
 
